@@ -59,11 +59,6 @@ With Flet, you can:
 \## Example Screenshot
 
 
-
-You can include a screenshot of your app here to show how it looks when running. Take a screenshot of the window, save it in your project folder (for example as `screenshot.png`), and add it to the README like this:
-
-
-
 ```markdown
 
 ![App Screenshot](screenshot.png)
