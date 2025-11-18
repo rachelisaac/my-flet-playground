@@ -66,7 +66,7 @@ You can include a screenshot of your app here to show how it looks when running.
 
 ```markdown
 
-!\[App Screenshot](screenshot.png)
+![App Screenshot](screenshot.png)
 
 ```
 
