@@ -59,11 +59,10 @@ With Flet, you can:
 \## Example Screenshot
 
 
-```markdown
 
 ![App Screenshot](screenshot.png)
 
-```
+
 
 
 
