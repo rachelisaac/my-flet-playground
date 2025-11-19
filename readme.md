@@ -2,7 +2,7 @@
 
 
 
-This is a simple demo application built with \*\*Flet\*\*. It displays a button on the screen, and every time you click the button, a counter increases and the current count is shown on the screen. For example: "Clicked 3 times", "Clicked 4 times", and so on.
+This is a simple demo application built with **Flet**. It displays a button on the screen, and every time you click the button, a counter increases and the current count is shown on the screen. For example: "Clicked 3 times", "Clicked 4 times", and so on.
 
 
 
@@ -12,7 +12,7 @@ This is a simple demo application built with \*\*Flet\*\*. It displays a button 
 
 1\. Make sure you have \*\*Python\*\* installed.
 
-2\. Install the required package using \*\*pip\*\*. In your terminal or PyCharm terminal, run:
+2\. Install the required package using **pip**. In your terminal or PyCharm terminal, run:
 
 
 
@@ -28,7 +28,7 @@ pip install "flet\[all]"
 
 
 
-1\. Open the project in \*\*PyCharm\*\* (or any Python IDE).
+1\. Open the project in **PyCharm** (or any Python IDE).
 
 2\. Run the Python file that contains your app (for example, `app.py`). This will open a window showing the button.
 
