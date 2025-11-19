@@ -1,4 +1,4 @@
-\# Flet Demo App
+# Flet Demo App
 
 
 
@@ -6,7 +6,7 @@ This is a simple demo application built with \*\*Flet\*\*. It displays a button 
 
 
 
-\## Installation
+## Installation
 
 
 
@@ -24,7 +24,7 @@ pip install "flet\[all]"
 
 
 
-\## How to Use
+## How to Use
 
 
 
@@ -35,7 +35,7 @@ pip install "flet\[all]"
 3\. Click the button to increase the counter. The text on the screen will update with the number of times the button has been clicked.
 
 
-\## Running with Docker🐳
+## Running with Docker🐳
 
 You can also run the app using **Docker**:
 
@@ -62,7 +62,7 @@ Open your browser and go to http://localhost:8500 to see the app running.
 
 
 
-\## About Flet
+## About Flet
 
 
 
@@ -82,7 +82,7 @@ With Flet, you can:
 
 
 
-\## Example Screenshot
+## Example Screenshot
 
 
 
