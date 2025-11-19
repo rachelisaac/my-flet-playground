@@ -10,7 +10,7 @@ This is a simple demo application built with **Flet**. It displays a button on t
 
 
 
-1\. Make sure you have \*\*Python\*\* installed.
+1\. Make sure you have **Python** installed.
 
 2\. Install the required package using **pip**. In your terminal or PyCharm terminal, run:
 
@@ -66,7 +66,7 @@ Open your browser and go to http://localhost:8500 to see the app running.
 
 
 
-\*\*Flet\*\* is a Python framework that allows you to build interactive web, desktop, and mobile applications \*\*without needing to write JavaScript, HTML, or CSS\*\*. It provides a set of UI components (widgets) that you can use directly in Python, making it easier and faster to create GUI applications.
+**Flet** is a Python framework that allows you to build interactive web, desktop, and mobile applications \*\*without needing to write JavaScript, HTML, or CSS\*\*. It provides a set of UI components (widgets) that you can use directly in Python, making it easier and faster to create GUI applications.
 
 
 
