@@ -2,7 +2,17 @@
 
 
 
-This is a simple demo application built with **Flet**. It displays a button on the screen, and every time you click the button, a counter increases and the current count is shown on the screen. For example: "Clicked 3 times", "Clicked 4 times", and so on.
+This is a simple demo application built with **Flet**. This is a simple and fun number guessing game built with Flet. The player tries to guess a secret number between 0 and 100. After each guess, the game provides hints whether the secret number is higher or lower. The game tracks the number of attempts and celebrates with a congratulatory message when the player guesses correctly. Features include:
+
+Interactive input for guesses
+
+Hints after each attempt (higher/lower)
+
+Attempt counter
+
+Option to start a new game
+
+Fun emojis for a lively user experience 🎉
 
 
 
@@ -44,7 +54,7 @@ Build the Docker image:
 
 ```bash
 
-docker build -t my_flet_app .
+docker build -t game .
 
 ```
 
@@ -52,7 +62,7 @@ Run the Docker container:
 
 ```bash
 
-docker run -p 8500:8500 my_flet_app
+docker run -p 8500:8500 game
 
 ```
 
