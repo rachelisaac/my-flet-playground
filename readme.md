@@ -35,6 +35,32 @@ pip install "flet\[all]"
 3\. Click the button to increase the counter. The text on the screen will update with the number of times the button has been clicked.
 
 
+\## Running with Docker🐳
+
+You can also run the app using **Docker**:
+
+Build the Docker image:
+
+
+```bash
+
+docker build -t my_flet_app .
+
+```
+
+Run the Docker container:
+
+```bash
+
+docker run -p 8500:8500 my_flet_app
+
+```
+
+
+
+Open your browser and go to http://localhost:8500 to see the app running.
+
+
 
 \## About Flet
 
