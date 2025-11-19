@@ -30,7 +30,7 @@ pip install "flet\[all]"
 
 1\. Open the project in **PyCharm** (or any Python IDE).
 
-2\. Run the Python file that contains your app (for example, `app.py`). This will open a window showing the button.
+2\. Run the Python file that contains your app (for example, `index.py`). This will open a window showing the button.
 
 3\. Click the button to increase the counter. The text on the screen will update with the number of times the button has been clicked.
 
